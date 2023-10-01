@@ -1,5 +1,5 @@
 # Open The Application on Vercel
-Open [https://alura-space-henna-eta.vercel.app/](https://vercel.com/lorenzob12/alura-space-v2) to view it in your browser.
+Open [https://alura-space-v2.vercel.app/](https://alura-space-v2.vercel.app/) to view it in your browser.
 
 ## React + Vite
 
