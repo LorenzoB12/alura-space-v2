@@ -1,4 +1,7 @@
-# React + Vite
+# Open The Application on Vercel
+Open [https://alura-space-henna-eta.vercel.app/](https://vercel.com/lorenzob12/alura-space-v2) to view it in your browser.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
